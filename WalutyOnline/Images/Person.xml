@@ -1,0 +1,14 @@
+<Persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Person>
+		<PersonId>1</PersonId>
+		<FirstName>Jan</FirstName>
+		<LastName>Kowalski</LastName>
+		<Age>23</Age>
+	</Person>
+	<Person>
+		<PersonId>2</PersonId>
+		<FirstName>Agnieszka</FirstName>
+		<LastName>Nowak</LastName>
+		<Age>22</Age>
+	</Person>
+</Persons>
